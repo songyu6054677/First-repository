@@ -9,7 +9,10 @@ This is an example semester project proposal.
 
 
 ## Objective
-Write a python function to automate the calculation of daily growing degree days using maximum and minimum daily air temperature.
+Write a python function to automate 
+<br/>
+the calculation of daily growing degree 
+days using maximum and minimum daily air temperature.
 
 ## Outcomes
 I want the function to produce a .csv file with four columns: day, month, year, degree days
