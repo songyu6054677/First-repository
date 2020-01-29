@@ -12,6 +12,7 @@ This is an example semester project proposal.
 Write a python function to automate 
 <br/>
 the calculation of daily growing degree 
+
 days using maximum and minimum daily air temperature.
 
 ## Outcomes
